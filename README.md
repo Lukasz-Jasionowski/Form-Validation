@@ -8,10 +8,16 @@ The user receives information depending on whether they match or not.
 ## Screenshots
 #### PC
 ![App Screenshot](https://i.ibb.co/wRRrK5g/1.png)
+
+<div align="center">
+
 ###### Failure
 ![App Screenshot](https://i.ibb.co/KLq4j84/3.png)
 ###### Success
 ![App Screenshot](https://i.ibb.co/Kjzn88X/2.png)
+
+</div>
+
 #### Mobile
 <div align="center">
 
